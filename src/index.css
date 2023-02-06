@@ -1,0 +1,22 @@
+* {
+	font-family: Figtree, sans-serif;
+}
+
+.overlay-text {
+	color: white;
+}
+
+h1 {
+	font-size: 85px;
+	margin: 0;
+}
+
+h2 {
+	margin: 0 0 0 10px;
+	display:inline;
+}
+
+.stick {
+	width: 200px;
+	border-radius: 50px;
+}
