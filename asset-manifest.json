@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mahjong-overlay/static/css/main.a8dac793.css",
-    "main.js": "/mahjong-overlay/static/js/main.27a7acb3.js",
+    "main.js": "/mahjong-overlay/static/js/main.55dbbc8e.js",
     "index.html": "/mahjong-overlay/index.html",
     "main.a8dac793.css.map": "/mahjong-overlay/static/css/main.a8dac793.css.map",
-    "main.27a7acb3.js.map": "/mahjong-overlay/static/js/main.27a7acb3.js.map"
+    "main.55dbbc8e.js.map": "/mahjong-overlay/static/js/main.55dbbc8e.js.map"
   },
   "entrypoints": [
     "static/css/main.a8dac793.css",
-    "static/js/main.27a7acb3.js"
+    "static/js/main.55dbbc8e.js"
   ]
 }
