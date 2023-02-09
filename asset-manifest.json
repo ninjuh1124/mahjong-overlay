@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mahjong-overlay/static/css/main.a8dac793.css",
-    "main.js": "/mahjong-overlay/static/js/main.27a7acb3.js",
-    "index.html": "/mahjong-overlay/index.html",
-    "main.a8dac793.css.map": "/mahjong-overlay/static/css/main.a8dac793.css.map",
-    "main.27a7acb3.js.map": "/mahjong-overlay/static/js/main.27a7acb3.js.map"
+    "main.css": "https://ninjuh1124.github.io/mahjong-overlay/static/css/main.a8dac793.css",
+    "main.js": "https://ninjuh1124.github.io/mahjong-overlay/static/js/main.27a7acb3.js",
+    "index.html": "https://ninjuh1124.github.io/mahjong-overlay/index.html",
+    "main.a8dac793.css.map": "https://ninjuh1124.github.io/mahjong-overlay/static/css/main.a8dac793.css.map",
+    "main.27a7acb3.js.map": "https://ninjuh1124.github.io/mahjong-overlay/static/js/main.27a7acb3.js.map"
   },
   "entrypoints": [
     "static/css/main.a8dac793.css",
