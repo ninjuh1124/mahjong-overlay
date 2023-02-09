@@ -12,7 +12,7 @@ export const Riichi = () => {
 	}, []);
 	return (
 		<div>
-			<img className='stick' src='/sticks/riichi.png' />
+			<img className='stick' src={`${process.env.PUBLIC_URL}/sticks/riichi.png`} />
 			<h2 className='overlay-text'>{riichi}</h2>
 		</div>
 	);

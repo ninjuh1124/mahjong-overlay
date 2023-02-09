@@ -29,7 +29,7 @@ export const Dora = () => {
 					}
 				})
 				.map((tile) => (
-					<img src={`/tiles/${tile}.png`} />
+					<img src={`${process.env.PUBLIC_URL}/tiles/${tile}.png`} />
 				))}
 		</>
 	);
